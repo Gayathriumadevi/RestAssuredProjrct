@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.restassured.MathJSPostAPITest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-03T10:30:36" hostname="Gayathris-MacBook-Pro.local" time="3.208">
+  <properties/>
+  <testcase name="mathapi_post_testCase002" classname="com.restassured.MathJSPostAPITest" time="3.208"/>
+  <system-out><![CDATA[200
+{"result":["[[-1, 2], [3, 1]]"],"error":null}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
